@@ -7,5 +7,5 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 * Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
   * The first five rows of the scaled DataFrame should appear as follows:
-  !([http://url/to/img.png](https://static.bc-edx.com/data/dl-1-2/m19/lms/img/scaled_DataFrame.png))
+  !(https://static.bc-edx.com/data/dl-1-2/m19/lms/img/scaled_DataFrame.png)
 
